@@ -77,7 +77,7 @@ public class MapExample {
 				
 		System.out.println(map3);
 		
-		//practice - find the occurance of
+		//practice - find the occurrence of
 		
 		String str1 = "Clean India Green India Love India";
 		
